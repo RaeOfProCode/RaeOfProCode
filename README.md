@@ -13,6 +13,11 @@
 
 🔍 Passionate about computer science, data science, and cybersecurity. Applied theoretical knowledge to real-world scenarios, enhancing skills and understanding.
 
+### Classes
+- COMP 110: Learned the basics of Python and Object Oriented Programming.
+- COMP 210: Learned about Data Structures and the Java Programming Language.
+- COMP 290: Learned the Esstential Tools for Computer Science, such as Shell Scripts, Docker, Git, and much more.
+- COMP 283: Learned about Discrete Structures (sets, tuples, relations, functions, graphs, trees) and developed problem-solving skills. 
 
 ## Tools and Programming Languages
 
