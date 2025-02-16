@@ -1,23 +1,23 @@
 ## About Me
-⭐ Activity Board Member at UNC Girls Who Code on a mission to help and inspire others in the field of Technology.
+🖥️ Undergraduate Teaching Assistant for COMP126, dedicated to helping students grasp fundamental programming concepts and problem-solving techniques. But ultimately, to help them along the path to Web Development as I trudge through my own 👣.
 
-📦 Package Service Representative at Carolina Housing, responsible for receiving, tracking, and distributing mail and packages, utilizing the SCLogic system while ensuring accuracy, confidentiality, and compliance with federal regulations.
+⭐ Outreach Committee Member & Activity Board Member at UNC Girls Who Code, collaborating with members to design and develop the Girls Who Code website 🖱️ while fostering a community that inspires and supports women in technology.
 
-🔒 Former Cyber Security Intern at Oeson, conducting ethical hacking (reconnaissance, scanning, malware analysis), vulnerability assessments, and gaining skills in system information gathering, cryptosystems, network threat traffic analysis, AWS Cloud security implementation, and website pen-testing with report creation using Burp Suite.
+📦 Package Service Representative at Carolina Housing, responsible for receiving, tracking, and distributing mail and packages using the SCLogic system, ensuring accuracy, confidentiality, and compliance with federal regulations.
 
-🌐 Certified in Web Authoring (Adobe Dreamweaver), mastering Python Programming and Web Development. Eager to further develop skills in Python, JavaScript, HTML, CSS, and other languages, driven by a passion for continuous learning and growth in web development.
+🌐 Certified in Web Authoring (Adobe Dreamweaver), proficient in Python programming and Web development. Continuously expanding expertise in Python, JavaScript, HTML, CSS, Java, C, and C#, fueled by a passion for continuous learning and growth in tech.
 
-🍽️ Former Operations Director at Asian Cuisine with 3+ years of experience, excelling in customer service and team leadership.
+🏆 Speech Competition Finalist & Semifinalist, ready to use my voice to change your mind 🧠.
 
-🏆 Speech Competition finalist and semifinalist, demonstrating strong communication skills and the ability to articulate complex ideas effectively.
-
-🔍 Passionate about computer science, data science, and cybersecurity. Applied theoretical knowledge to real-world scenarios, enhancing skills and understanding.
+🔍 Passionate about Web development 💻, Game development 🎮, and Cybersecurity 🔐, continuously aiming to turn any idea 💭 into reality.
 
 ### Classes
 - COMP 110: Learned the basics of Python and Object Oriented Programming.
 - COMP 210: Learned about Data Structures and the Java Programming Language.
 - COMP 290: Learned the Esstential Tools for Computer Science, such as Shell Scripts, Docker, Git, and much more.
-- COMP 283: Learned about Discrete Structures (sets, tuples, relations, functions, graphs, trees) and developed problem-solving skills. 
+- COMP 283: Learned about Discrete Structures (sets, tuples, relations, functions, graphs, trees) and developed problem-solving skills.
+- COMP 211: System Fundamentals
+- COMP 301: Foundations of Programming
 
 ## Tools and Programming Languages
 
@@ -26,6 +26,8 @@
 - JavaScript
 - HTML
 - CSS
+- C
+- C#
 - Lua
 - Git
 - WireShark
