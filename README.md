@@ -29,10 +29,10 @@
 ---
 
 ## 📌 Featured Projects  
-🔗 [**HackNC Website**](#) — Responsive hackathon website with horizontal scrolling, accessible navigation, FAQs, and team showcase.  
-🔗 [**Omnifood**](#) — Fictional responsive food delivery site built with modern HTML & CSS.  
-🔗 [**SecuCrypt**](#) — Python-based cryptography tool implementing AES, DES, MD5, SHA-1, and SHA-256.  
-🔗 [**Sprout Script**](#) — Hackathon project teaching coding concepts via a virtual plant-care game.  
+🔗 [**HackNC Website**](https://github.com/HackNC/fall2025) — Responsive hackathon website with horizontal scrolling, accessible navigation, FAQs, and team showcase.  
+🔗 [**Omnifood**](https://github.com/RaeOfProCode/Omnifood) — Fictional responsive food delivery site built with modern HTML & CSS.  
+🔗 [**SecuCrypt**](https://github.com/RaeOfProCode/SecuCrypt) — Python-based cryptography tool implementing AES, DES, MD5, SHA-1, and SHA-256.  
+🔗 [**Sprout Script**](https://github.com/RaeOfProCode/PearlHacks2024-SproutScript) — Hackathon project teaching coding concepts via a virtual plant-care game.  
 
 ---
 
