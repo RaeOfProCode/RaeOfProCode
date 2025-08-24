@@ -2,7 +2,7 @@
 
   🎓   Computer Science & Information Science student at **UNC-Chapel Hill (Class of 2027)**  
   
-  💻   Front-End Web Developer | UTA for COMP126 | Cybersecurity Enthusiast  
+  💻   Front-End Web Developer | UTA for COMP126 | Web Development, Game Development, and CyberSecurity Enthusiast  
 
 ---
 
